@@ -1,0 +1,29 @@
+# Dataset fajlovi (preveliki za git, javno dostupni na Kaggle)
+data/
+
+# Python virtualenv
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (grafici i tabele se regenerišu iz koda — opciono)
+# results/
